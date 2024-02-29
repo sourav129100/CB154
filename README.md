@@ -1,13 +1,16 @@
-## Welcome to the Login and Sign Up Pages!
+CBP19 : Remote Work Collaboration Platform
 
-- This repository contains codes for login and sign up pages designed for web applications. The pages are built with HTML, CSS, and JavaScript.
+Ideas :-
+A functioning website to be created using html,css,javascript. The website will contain an introductory homepage containing pathways to sign up/sign in, resources, about us, developer team etc.
+Resources include tools like video conferencing, resource up, collaborative workshop, freelancing, community to enhance productivity and team cohesionin distributed work environments.
 
-## Features
-> - Login and Sign Up forms with form validation
-> - Recvery pages to recover forgotten passwords through email verification
+Project detail :-
+An introductory page created using html,css and javascript.
+A Sign up/sign in page created using javascript. The sign-up page collects email addresses of registrants to give them access for future sign-ins.
+Features button (drop down) created and added in top bar of the website. The button provides path to tools like video conferencing, resource hub, workspace, freelancing and community.
+Video conferencing tool allows multiple users to connect using a meeting code. It is created using java and c++.
+Resource hub is created using html,css and javascript. It provides users access to viewing and uploading resources of their choice.
+A collaborative design workshop is created using java and html5.
+A community chat page is created using node.js.
 
-
-The code is modular and can be easily customized to match the design of your application. You can modify the CSS styles and adjust the form fields to meet your specific requirements.
-
-## Contributions
-- Contributions to this project are welcome! If you notice any issues or have ideas for new features, please submit a pull request or open an issue on GitHub.
+Flowchart :- https://drive.google.com/file/d/1_5DQocPy38N79xp2htpGeZ1V96oQfS2D/view?usp=drive_link
